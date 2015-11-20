@@ -6,3 +6,8 @@ In order to use the application, you can simply download Indent_App.mlappinstall
 If you prefer using the application without the apps manager of Matlab, download all the *.m files and start IndentGUI_nested.m.
 # Help?
 Feel free to contact me on github or inbox me to hy@dataseed.co!
+
+# Acknowledgements
+The function simps was made by Damien Garcia and ca be found on MathWorks' File Exchange:
+http://www.mathworks.com/matlabcentral/fileexchange/25754-simpson-s-rule-for-numerical-integration/content/simps.m
+I would like to acknowledge Eli Billauer for the function peakdet released to the public domain (http://www.billauer.co.il/peakdet.html)
