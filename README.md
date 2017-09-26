@@ -5,7 +5,7 @@ In order to use the application, you can simply download Indent_App.mlappinstall
 
 If you prefer using the application without the apps manager of Matlab, download all the *.m files and start IndentGUI_nested.m.
 # Help?
-Feel free to contact me on github or inbox me on hy-at-dataseed.co!
+Feel free to contact me on github.
 
 # Acknowledgements
 The function simps was made by Damien Garcia and can be found on MathWorks' File Exchange:
